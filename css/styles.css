@@ -1,0 +1,40 @@
+.jumbotron {
+	margin-bottom:0;
+	background-color:#FFCC99;
+	height:100px;
+}
+
+.heading{
+	margin-top: -30px;
+	color: black;
+	font-family: Helvetica;
+}
+
+.font{
+	font-family: Helvetica;
+}
+
+.nav-link {
+	color:green;
+}
+
+.chill{
+	background-color:orange;
+}
+
+.address{
+	text-align: center;
+}
+
+sub{
+	color:green;
+}
+
+sup{
+	color:mediumseagreen;
+}
+
+.button{
+	color:green;
+}
+
